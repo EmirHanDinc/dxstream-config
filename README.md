@@ -21,3 +21,7 @@ cd tv-web/remote-config && tools/publish.sh
 ```
 ## Değiştirme
 `config.json`'ı düzenleyip yine `tools/publish.sh` çalıştırın.
+
+## demo.m3u
+App Store / Google Play / Samsung / LG incelemesi için yasal örnek liste: yalnızca Apple'ın geliştiricilere yayınladığı
+herkese açık HLS test yayınları (devstreaming-cdn.apple.com). Adres: https://emirhandinc.github.io/dxstream-config/demo.m3u
