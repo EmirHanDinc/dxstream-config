@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://emirhandinc.github.io/dxstream-config/demo/guide.xml"
+# DXStream demo playlist: Blender Foundation open movies (Creative Commons Attribution) and Apple HLS examples.
+# Credits and licenses: https://emirhandinc.github.io/dxstream-config/demo/index.html
+#EXTINF:-1 tvg-id="dxdemo.openmovies" tvg-chno="1" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.openmovies.png" group-title="Movies",Open Movie Channel
+https://emirhandinc.github.io/dxstream-config/demo/live/openmovies/index.m3u8
+#EXTINF:-1 tvg-id="dxdemo.animation" tvg-chno="2" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.animation.png" group-title="Animation",Animation Channel
+https://emirhandinc.github.io/dxstream-config/demo/live/animation/index.m3u8
+#EXTINF:-1 tvg-id="dxdemo.scifi" tvg-chno="3" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.scifi.png" group-title="Movies",Sci-Fi Channel
+https://emirhandinc.github.io/dxstream-config/demo/live/scifi/index.m3u8
+#EXTINF:-1 tvg-id="dxdemo.family" tvg-chno="4" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.family.png" group-title="Animation",Family Channel
+https://emirhandinc.github.io/dxstream-config/demo/live/family/index.m3u8
+#EXTINF:-1 tvg-id="dxdemo.applehls" tvg-chno="5" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.applehls.png" group-title="Test Streams",HLS Test Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
+#EXTINF:-1 tvg-id="dxdemo.applehls2" tvg-chno="6" tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/dxdemo.applehls2.png" group-title="Test Streams",HLS Test Stream 16:9
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:596 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/big-buck-bunny.png" group-title="Open Movies",Big Buck Bunny (2008)
+https://emirhandinc.github.io/dxstream-config/demo/movie/big-buck-bunny/index.m3u8
+#EXTINF:888 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/sintel.png" group-title="Open Movies",Sintel (2010)
+https://emirhandinc.github.io/dxstream-config/demo/movie/sintel/index.m3u8
+#EXTINF:734 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/tears-of-steel.png" group-title="Open Movies",Tears of Steel (2012)
+https://emirhandinc.github.io/dxstream-config/demo/movie/tears-of-steel/index.m3u8
+#EXTINF:653 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/elephants-dream.png" group-title="Open Movies",Elephants Dream (2006)
+https://emirhandinc.github.io/dxstream-config/demo/movie/elephants-dream/index.m3u8
+#EXTINF:90 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/caminandes.png" group-title="Animated Series",Caminandes S01E01 Llama Drama
+https://emirhandinc.github.io/dxstream-config/demo/series/caminandes/s01e01/index.m3u8
+#EXTINF:146 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/caminandes.png" group-title="Animated Series",Caminandes S01E02 Gran Dillama
+https://emirhandinc.github.io/dxstream-config/demo/series/caminandes/s01e02/index.m3u8
+#EXTINF:150 tvg-logo="https://emirhandinc.github.io/dxstream-config/demo/art/caminandes.png" group-title="Animated Series",Caminandes S01E03 Llamigos
+https://emirhandinc.github.io/dxstream-config/demo/series/caminandes/s01e03/index.m3u8
